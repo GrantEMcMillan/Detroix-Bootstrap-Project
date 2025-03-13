@@ -2,9 +2,11 @@ body {
   background-color: #f2f3f5;
 }
 
-#top-navbar {
-  color: #a9a9a9;
+#top-navbar-bg {
   background-color: #0b0b31;
+}
+#top-nav-links {
+  color: #a9a9a9;
 }
 #main-nav-btn {
   color: #ffffff;

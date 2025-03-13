@@ -1,0 +1,13 @@
+body {
+  background-color: #f2f3f5;
+}
+
+#top-navbar-bg {
+  color: #a9a9a9;
+  background-color: #0b0b31;
+}
+
+#services {
+  list-style: none;
+  padding: 0;
+}

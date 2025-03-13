@@ -28,6 +28,17 @@ body {
   );
 }
 
+/*Position buttons at the bottom of each column*/
+#serv-op-news {
+  position: relative;
+}
+#more-btn-2 {
+  color: #ffffff;
+  background-color: #213349;
+  position: absolute;
+  bottom: 3%;
+}
+
 #services {
   list-style: none;
   padding: 0;

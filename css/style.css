@@ -2,7 +2,7 @@ body {
   background-color: #f2f3f5;
 }
 
-#top-navbar-bg {
+#top-navbar {
   color: #a9a9a9;
   background-color: #0b0b31;
 }
@@ -10,4 +10,13 @@ body {
 #services {
   list-style: none;
   padding: 0;
+}
+footer {
+  background-color: #0e1e31;
+}
+footer p {
+  color: white;
+  margin: 0;
+  padding: 2vw 5vw;
+  font-size: 2vw;
 }

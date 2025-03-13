@@ -8,6 +8,12 @@ body {
 #top-nav-links {
   color: #a9a9a9;
 }
+
+/*Main Navbar*/
+#main-nav-bg {
+  background-color: #f2f3f5;
+}
+
 #main-nav-btn {
   color: #ffffff;
   background-color: #0b0b31;

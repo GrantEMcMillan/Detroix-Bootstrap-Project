@@ -7,6 +7,16 @@ body {
   background-color: #0b0b31;
 }
 
+#bg-gradient {
+  background: rgb(28, 45, 64);
+  background: linear-gradient(
+    135deg,
+    rgba(28, 45, 64, 1) 0%,
+    rgba(18, 29, 41, 1) 50%,
+    rgba(15, 24, 33, 1) 100%
+  );
+}
+
 #services {
   list-style: none;
   padding: 0;

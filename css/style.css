@@ -24,6 +24,12 @@ body {
   }
 }
 
+.navbar-toggler {
+  &:hover {
+    opacity: 0.75;
+  }
+}
+
 /*Adjust size of "Detroix" logo image for screens small than 425px*/
 @media (max-width: 425px) {
   .navbar-brand {

@@ -21,6 +21,7 @@ body {
 .navbar-brand {
   &:hover {
     border-bottom: solid #0b0b31 4px;
+    padding: 0.18rem;
   }
 }
 

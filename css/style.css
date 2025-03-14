@@ -2,6 +2,7 @@ body {
   background-color: #f2f3f5;
 }
 
+/*Style top nav bar*/
 #top-navbar-bg {
   background-color: #0b0b31;
 }
@@ -12,6 +13,13 @@ body {
 /*Main Navbar*/
 #main-nav-bg {
   background-color: #f2f3f5;
+}
+
+/*Adjust size of "Detroix" logo image for screens small than 425px*/
+@media (max-width: 425px) {
+  .navbar-brand {
+    width: 60%;
+  }
 }
 
 #main-nav-btn {
